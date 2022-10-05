@@ -1,6 +1,6 @@
 <%-- 
     Document   : test
-    Created on : 04-oct-2022, 21:37:40
+    Created on : 05-oct-2022, 10:07:05
     Author     : 2021
 --%>
 
@@ -12,6 +12,6 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Hello World!</h1>
+        <h1>Hola mundo</h1>
     </body>
 </html>
